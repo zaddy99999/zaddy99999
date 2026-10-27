@@ -1,6 +1,6 @@
 # Hi, I'm William 👋
 
-**AI-native builder** in Charleston, SC. I build automation, video pipelines, and analytics tools, and I use AI coding agents (Claude Code and Codex) to ship them fast: I design the system, direct the agents, and review, test, and deploy what they write.
+**AI-native builder.** I build automation, video pipelines, and analytics tools, and I use AI coding agents (Claude Code and Codex) to ship them fast: I design the system, direct the agents, and review, test, and deploy what they write.
 
 - 📊 Built and run **[ZaddyTools](https://zaddytools.com)**, an analytics dashboard for the Abstract blockchain ecosystem
 - 🎬 Automate short-form video production end to end: clipping, rendering, captions, thumbnails, and uploads
